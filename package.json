@@ -1,0 +1,17 @@
+{
+  "name": "find-unlinked-assets",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "find-unlinked-assets.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "contentful": "^11.5.2",
+    "dotenv": "^16.4.7"
+  }
+}
