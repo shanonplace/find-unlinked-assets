@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4dgP2U7BeMuk0icguS4qGw",
+    "title": "contentful-team",
+    "url": "//images.ctfassets.net/p7wtrju3hmsb/4dgP2U7BeMuk0icguS4qGw/f8906519fb02a3b7e5061782f09e228a/contentful-team-example.jpeg",
+    "contentType": "image/jpeg",
+    "fileSize": "270.77 KB",
+    "createdAt": "5/23/2022",
+    "updatedAt": "5/23/2022",
+    "contentfulUrl": "https://app.contentful.com/spaces/p7wtrju3hmsb/environments/master/assets/4dgP2U7BeMuk0icguS4qGw"
+  },
+  {
+    "id": "1nXjR47jxOagUcc8iU6wUQ",
+    "title": "Diagram: Content model of a lesson",
+    "url": "//images.ctfassets.net/p7wtrju3hmsb/1nXjR47jxOagUcc8iU6wUQ/dcc9ab772e3bd5812bfda95335590b6e/content-model-lesson.svg",
+    "contentType": "image/svg+xml",
+    "fileSize": "37.52 KB",
+    "createdAt": "5/23/2022",
+    "updatedAt": "5/23/2022",
+    "contentfulUrl": "https://app.contentful.com/spaces/p7wtrju3hmsb/environments/master/assets/1nXjR47jxOagUcc8iU6wUQ"
+  }
+]
