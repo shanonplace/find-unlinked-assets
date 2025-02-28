@@ -51,7 +51,6 @@ An example output file can be found here:
 
 ## ⚠️ Notes
 
-- ✅ Ensure you have the correct API permissions.
 - ⏳ Large spaces may take longer to process.
 - 🌍 Make sure your API key has access to the space and environment in Contentful
 
